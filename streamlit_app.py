@@ -7,7 +7,7 @@ st.set_page_config(page_title="자기소개", layout="wide")
 # 헤더 영역
 # ============================================================
 st.title("👋 안녕하세요!")
-st.write("여기는 당신의 자기소개 페이지입니다.")
+st.write("여기는 김예음의 자기소개 페이지입니다.")
 
 st.divider()
 
@@ -22,9 +22,9 @@ with col1:
 
 with col2:
     st.subheader("👤 기본 정보")
-    st.write("**이름:** 홍길동")
-    st.write("**직업:** 소프트웨어 개발자")
-    st.write("**거주지:** 서울, 대한민국")
+    st.write("**이름:** 김예음")
+    st.write("**직업:** 학생")
+    st.write("**거주지:** 부천, 대한민국")
     st.write("**연락처:** contact@example.com")
 
 st.divider()
